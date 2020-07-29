@@ -1,2 +1,2 @@
-# EyeonTraffic-EoT-
-Dataset for analyzing lane-less traffic state behavior at intersections
+# EyeonTraffic(EoT) Dataset
+# Dataset for analyzing lane-less traffic state behavior at intersections

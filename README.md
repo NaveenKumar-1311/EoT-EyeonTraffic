@@ -55,7 +55,7 @@ The overall breakdown of EoT dataset is given below:
 ![](images/details.png)
 
 <h3>CNN Features</h3>
-The tracks obtained for each of the spatio-temporal region are  used  to  create  a  corresponding  adjacency  matrix  basedon the road user ids. The distance between two road users is converted into metres from pixel values. If the distance is less than μ= 10m, the corresponding entry is added to  the  adjacency  matrix  based  on  road  width.  The  image representation  of  the  adjacency  matrices  is  sent  as  input to  VGG16  CNN  architecture  pretrained  on  ImageNet dataset.  The  input  image  is  resized  to  224×224  and  a  147 dimension feature vector is extracted from the average poollayer.<br>
+The tracks obtained for each of the spatio-temporal region are  used  to  create  a  corresponding  adjacency  matrix  basedon the road user ids. The distance between two road users is converted into metres from pixel values. If the distance is less than μ= 10m, the corresponding entry is added to  the  adjacency  matrix  based  on  road  width.  The  image representation  of  the  adjacency  matrices  is  sent  as  input to  VGG16  CNN  architecture  pretrained  on  ImageNet dataset.  The  input  image  is  resized  to  224×224  and  a  147 dimension feature vector is extracted from the average poollayer.<br><br>
 
 The features can be downloaded [here](https://drive.google.com/drive/folders/156e5u6czBblMhLEFxG-gzbyj8H2Rk6WY?usp=sharing)
 
@@ -63,7 +63,7 @@ The features can be downloaded [here](https://drive.google.com/drive/folders/156
 
 This dataset is provided for academic and research purposes only.
 
-<h3> Annotators </h3>
+<h3> Annotator </h3>
 
 * [K Naveen Kumar](https://naveenkumar1311.github.io/), First-year PhD Research Scholar, Dept. of Computer Science and Engineering, Indian Institute of Technology Hyderabad, India
 

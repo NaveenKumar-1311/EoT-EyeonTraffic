@@ -33,7 +33,7 @@ Spatial annotations can be downloaded here:[Paldi](https://drive.google.com/file
 
 Temporal annotations are given below:
 
-Paldi|-| Nehru|-| APMC|-|
+Paldi|| Nehru|| APMC||
 -|-|-|-|-|-|
 P|-| 175|-| 54|-| 
 P|-| 175|-| 54|-| 

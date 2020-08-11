@@ -13,9 +13,7 @@
 3-way unsignalized intersection
 
 
-<h2> Annotation </h2>
-
-<h3> Spatio - Temporal annotations </h3>
+<h2> Spatio - Temporal Annotations </h2>
 
 Spatial regions of traffic states for the above intersections are manually annotated as shown below <br>
 

@@ -28,6 +28,7 @@ Red: Clump, Yellow: Neutral, Blue: Unclump
 ![](images/apmc.jpg)
 3-way unsignalized intersection
 
+Spatial annotations can be downloaded her for [Paldi](https://drive.google.com/file/d/1QwkxbhTl25x9F1sOD8iH3Hy-yMmqYXD2/view?usp=sharing), [Nehru](https://drive.google.com/file/d/1x7GMiAUyp47DPDXtt5KoRqhoKFk_bYTI/view?usp=sharing), [APMC](https://drive.google.com/file/d/1XXFk2RGhHDkUfyARKSZe-mhEuAmDFEqb/view?usp=sharing)
 
 
 

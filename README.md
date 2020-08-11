@@ -31,11 +31,13 @@ Spatial regions of traffic states for the above intersections are manually annot
 
 Spatial annotations can be downloaded here:[Paldi](https://drive.google.com/file/d/1QwkxbhTl25x9F1sOD8iH3Hy-yMmqYXD2/view?usp=sharing), [Nehru](https://drive.google.com/file/d/1x7GMiAUyp47DPDXtt5KoRqhoKFk_bYTI/view?usp=sharing), [APMC](https://drive.google.com/file/d/1XXFk2RGhHDkUfyARKSZe-mhEuAmDFEqb/view?usp=sharing)
 
-Temporal annotations are given below:
+Temporal annotations and corresponding videos can be downloaded using below table
 
 Paldi|| Nehru|| APMC||
 -|-|-|-|-|-|
-P|-| 175|-| 54|-| 
-P|-| 175|-| 54|-| 
-P|-| 175|-| 54|-| 
+Video|Annotation| Video|Annotation| Video|Annotation| 
+[1_1.mp4](https://drive.google.com/file/d/1W6fGg_k83EBXf_gfJyxJJNoz76WcRrpS/view?usp=sharing)|[Paldi_1_1.csv](https://drive.google.com/file/d/17F6drdN36469GVZnt2-KGSC6vWh-Kib2/view?usp=sharing)| [3_1.mp4](https://drive.google.com/file/d/1-mKo8MC68oEtVh201TnswEHKZjfREY6v/view?usp=sharing)|[Nehru_3_1.csv](https://drive.google.com/file/d/1EwNsix-gCpOsAJa5wpNBmcXXClQujWCi/view?usp=sharing)| [4_1.mp4](https://drive.google.com/file/d/1MK8JZmXJLnBVKFBd8OU_HZPh_wlKESK7/view?usp=sharing)|[APMC_4_1.csv](https://drive.google.com/file/d/1VW2QIqhIr7Vq0SN0q9P8mCWLCo_D_y8s/view?usp=sharing)| 
+[1_2.mp4](https://drive.google.com/file/d/1BVz7Kh4gCrUQxfK9G7IlhDJVcSOUTgKr/view?usp=sharing)|[Paldi_1_1.csv](https://drive.google.com/file/d/1GWdL7dBEvi-G2UD_HoE_oC5rH1cSB7Ts/view?usp=sharing)| [3_2.mp4](https://drive.google.com/file/d/1PPJidGwy0oe8Zu2Ccd8ErQjzW8_So-wC/view?usp=sharing)|[Nehru_3_2.csv](https://drive.google.com/file/d/17vbPp-rlAh49LeYEoT6GQEzOcw-V8JD9/view?usp=sharing)| [4_2.mp4](https://drive.google.com/file/d/1oBdYcbuO4cM16KXHd5cluy3XbuENDEpV/view?usp=sharing)|[APMC_4_2.csv](https://drive.google.com/file/d/1e-zU9bFTDHckBDrESk9TTlPZcj5Sd5ee/view?usp=sharing)| 
+[1_3.mp4](https://drive.google.com/file/d/1ReLqI7zfQru7RnVNbxofU9XnV1yuEKt8/view?usp=sharing)|[Paldi_1_1.csv](https://drive.google.com/file/d/1lCYJ3Tu214TPZjyu6cyqDsPVMjK5QnhK/view?usp=sharing)| [3_3.mp4](https://drive.google.com/file/d/191CdrD223OiP9PUcnaz4btyf8UfLcPXH/view?usp=sharing)|[Nehru_3_3.csv](https://drive.google.com/file/d/1DW4LLuWe_YKrVosPXt7XKVgAlNklTyeS/view?usp=sharing)| [4_3.mp4](https://drive.google.com/file/d/1wMFQNJzOn1bjSqA34H8Mwtn9AICwQdN5/view?usp=sharing)|[APMC_4_3.csv](https://drive.google.com/file/d/1gzV-wGHD7tafPNZ0ZrecvNbtPx11KH-6/view?usp=sharing)| 
+         || [3_4.mp4](https://drive.google.com/file/d/1mvdfsFFsENlQDXHOadPeuHUnHsQjOOR5/view?usp=sharing)|[Nehru_3_4.csv](https://drive.google.com/file/d/1I-Y94tqC0bscpdGzTmhlqbqwqbZjCHKF/view?usp=sharing)| || 
 

@@ -32,12 +32,10 @@ Spatial regions of traffic states for the above intersections are manually annot
 Spatial annotations can be downloaded here:[Paldi](https://drive.google.com/file/d/1QwkxbhTl25x9F1sOD8iH3Hy-yMmqYXD2/view?usp=sharing), [Nehru](https://drive.google.com/file/d/1x7GMiAUyp47DPDXtt5KoRqhoKFk_bYTI/view?usp=sharing), [APMC](https://drive.google.com/file/d/1XXFk2RGhHDkUfyARKSZe-mhEuAmDFEqb/view?usp=sharing)
 
 Temporal annotations are given below:
-Paldi|-|Nehru|-|APMC|
--|-|-|-|-|-|-|-
-P | 175 | 54 | 881 | 494 | 45 | 16 | 226
-V | 132 | 9 | 627 | 195 | 7 | 0 | 9 | 9
-N | 41 | 8 | 275 | 99 | 12 | 6 | 33
-A | 73 | 6 | 402 | 135 | 43 | 0 | 81
 
-
+Intersection | car | bus |
+-|-|-|
+P | 175 | 54 | 
+V | 132 | 9 |
+N | 41 | 8 |
 

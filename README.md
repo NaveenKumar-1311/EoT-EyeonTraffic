@@ -29,6 +29,8 @@ Spatial regions of traffic states for the above intersections are manually annot
 ![](images/apmc.jpg)
 3-way unsignalized intersection
 
+
+
 Spatial annotations can be downloaded here:[Paldi](https://drive.google.com/file/d/1QwkxbhTl25x9F1sOD8iH3Hy-yMmqYXD2/view?usp=sharing), [Nehru](https://drive.google.com/file/d/1x7GMiAUyp47DPDXtt5KoRqhoKFk_bYTI/view?usp=sharing), [APMC](https://drive.google.com/file/d/1XXFk2RGhHDkUfyARKSZe-mhEuAmDFEqb/view?usp=sharing)
 
 Temporal annotations and corresponding videos can be downloaded using below table
@@ -49,3 +51,5 @@ Clump|[P_C](https://drive.google.com/drive/folders/167InTOE5rwVDMPME-5u3oZR43odK
 Neutral|[P_N](https://drive.google.com/drive/folders/1GNjcOhctVALqUQffoqBnnHVH8InPcnKJ?usp=sharing)|[N_N](https://drive.google.com/drive/folders/1-5ZafOJwDU0tPjiWv4ixCzZI3XcpADy1?usp=sharing)|[A_N](https://drive.google.com/drive/folders/1de8WWPRHL92g_qGOExMYI7uvLfVvub7M?usp=sharing)|
 Unclump|[P_U](https://drive.google.com/drive/folders/19zeHDCnB9dlrnuvexwzKJjcF0IWeNoas?usp=sharing)|[N_U](https://drive.google.com/drive/folders/1XwuTcwxlkSL6emuK7yrFiqVDYtxH2Na2?usp=sharing)|[A_U](https://drive.google.com/drive/folders/146ZAW3kKI_KM2aRL2HfnYc6tSmK-JbAK?usp=sharing)|
 
+The overall breakdown of EoT dataset is given below:
+[](images/details.png)

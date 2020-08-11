@@ -33,9 +33,9 @@ Spatial annotations can be downloaded here:[Paldi](https://drive.google.com/file
 
 Temporal annotations are given below:
 
-Intersection | car | bus |
--|-|-|
-P | 175 | 54 | 
-V | 132 | 9 |
-N | 41 | 8 |
+Paldi | Nehru | APMC |
+-|-|-|-|-|-|
+P|-| 175|-| 54|-| 
+P|-| 175|-| 54|-| 
+P|-| 175|-| 54|-| 
 

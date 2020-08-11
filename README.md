@@ -15,4 +15,19 @@
 
 <h2> Annotation </h2>
 
+<h3> Spatio - Temporal annotations </h3>
+
+Spatial regions of traffic states for the above intersections are manually annotated as shown below 
+Red: Clump, Yellow: Neutral, Blue: Unclump
+
+**Paldi (P)**         | **Nehru Bridge Ashram Road (N)**       
+----------------|--------------
+![](images/paldi.jpg) |![](images/nehru.jpg)
+4-way signalized intersection | 4-way signalized intersection 
+**APMC market (A)**
+![](images/apmc.jpg)
+3-way unsignalized intersection
+
+
+
 

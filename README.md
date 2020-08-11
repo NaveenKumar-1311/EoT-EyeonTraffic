@@ -17,7 +17,7 @@
 
 <h3> Spatio - Temporal annotations </h3>
 
-Spatial regions of traffic states for the above intersections are manually annotated as shown below 
+Spatial regions of traffic states for the above intersections are manually annotated as shown below <br>
 Red: Clump, Yellow: Neutral, Blue: Unclump
 
 **Paldi (P)**         | **Nehru Bridge Ashram Road (N)**       

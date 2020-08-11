@@ -52,4 +52,4 @@ Neutral|[P_N](https://drive.google.com/drive/folders/1GNjcOhctVALqUQffoqBnnHVH8I
 Unclump|[P_U](https://drive.google.com/drive/folders/19zeHDCnB9dlrnuvexwzKJjcF0IWeNoas?usp=sharing)|[N_U](https://drive.google.com/drive/folders/1XwuTcwxlkSL6emuK7yrFiqVDYtxH2Na2?usp=sharing)|[A_U](https://drive.google.com/drive/folders/146ZAW3kKI_KM2aRL2HfnYc6tSmK-JbAK?usp=sharing)|
 
 The overall breakdown of EoT dataset is given below:
-[](images/details.png)
+![](images/details.png)

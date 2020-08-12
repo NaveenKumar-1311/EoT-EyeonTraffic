@@ -2,7 +2,7 @@
 ## Dataset for analyzing lane-less traffic state behavior at intersections
 <img src="images/m2smart.png" width="200"> <img src="images/iith.png" width="100">
 
-<b>EyeonTraffic (EoT) Dataset</b> is the first aerial view data for defining spatio-temporal annotations in order to estimate the traffi congestion state under lane-less behavior. There were total of 3 intersections chosen for the EoT dataset with  around  1  hour  of  aerial  video  recorded  for  each  of the intersections, namely, Paldi (P), Nehru bridge - Ashramroad (N), and APMC market (A) in the city of Ahmedabad, India. These  intersections  were  considered  because  of  the diverse traffic conditions they present. While Paldi and Nehru bridge are  four-way  signalized  intersections, APMC  marketis a three-way non-signalized intersection. Hence, this dataset comprehensively  covers  a  wide  variety  of  traffic  conditions for  both  signalized  and  non-signalized  intersections.  Details of the tracking annotations are found in [SkyEye](https://github.com/debadityaroy/SkyEye/) repository.
+<b>EyeonTraffic (EoT) Dataset</b> is the first aerial view data for defining Spatio-temporal annotations to estimate the traffic congestion state under lane-less behavior. There were a total of 3 intersections chosen for the EoT dataset with around  1  hour of aerial video recorded for each of the intersections, namely, Paldi (P), Nehru bridge - Ashramroad (N), and APMC market (A) in the city of Ahmedabad, India. These intersections were considered because of the diverse traffic conditions they present. While Paldi and Nehru bridge are four-way signalized intersections, the APMC market is a three-way non-signalized intersection. Hence, this dataset comprehensively covers a  wide variety of traffic conditions for both signalized and non-signalized intersections.  Details of the tracking annotations are found in [SkyEye](https://github.com/debadityaroy/SkyEye/) repository.
 
 **Paldi (P)**         | **Nehru Bridge Ashram Road (N)**       
 ----------------|--------------
@@ -31,7 +31,7 @@ Spatial regions of traffic states for the above intersections are manually annot
 
 Spatial annotations can be downloaded here:[Paldi](https://drive.google.com/file/d/1QwkxbhTl25x9F1sOD8iH3Hy-yMmqYXD2/view?usp=sharing), [Nehru](https://drive.google.com/file/d/1x7GMiAUyp47DPDXtt5KoRqhoKFk_bYTI/view?usp=sharing), [APMC](https://drive.google.com/file/d/1XXFk2RGhHDkUfyARKSZe-mhEuAmDFEqb/view?usp=sharing)
 
-Temporal annotations and corresponding videos can be downloaded using below table
+Temporal annotations and corresponding videos can be downloaded using the below table
 
 Paldi|| Nehru|| APMC||
 -|-|-|-|-|-|
@@ -41,7 +41,7 @@ Video|Annotation| Video|Annotation| Video|Annotation|
 [1_3.mp4](https://drive.google.com/file/d/1ReLqI7zfQru7RnVNbxofU9XnV1yuEKt8/view?usp=sharing)|[Paldi_1_1.csv](https://drive.google.com/file/d/1lCYJ3Tu214TPZjyu6cyqDsPVMjK5QnhK/view?usp=sharing)| [3_3.mp4](https://drive.google.com/file/d/191CdrD223OiP9PUcnaz4btyf8UfLcPXH/view?usp=sharing)|[Nehru_3_3.csv](https://drive.google.com/file/d/1DW4LLuWe_YKrVosPXt7XKVgAlNklTyeS/view?usp=sharing)| [4_3.mp4](https://drive.google.com/file/d/1wMFQNJzOn1bjSqA34H8Mwtn9AICwQdN5/view?usp=sharing)|[APMC_4_3.csv](https://drive.google.com/file/d/1gzV-wGHD7tafPNZ0ZrecvNbtPx11KH-6/view?usp=sharing)| 
 NA|NA|[3_4.mp4](https://drive.google.com/file/d/1mvdfsFFsENlQDXHOadPeuHUnHsQjOOR5/view?usp=sharing)|[Nehru_3_4.csv](https://drive.google.com/file/d/1I-Y94tqC0bscpdGzTmhlqbqwqbZjCHKF/view?usp=sharing)|NA|NA| 
 
-Finally the Spatio-Temporal annotations segmented at the rate 5fps combining spatial and temporal annotations and for 3 intersections can be downloaded from below table:
+Finally, the Spatio-Temporal annotations segmented at the rate 5fps combining spatial and temporal annotations and for 3 intersections can be downloaded from the below table:
 
 State|Paldi|Nehru|APMC|
 -|-|-|-|
@@ -53,7 +53,7 @@ The overall breakdown of EoT dataset is given below:
 ![](images/details.png)
 
 <h3>CNN Features</h3>
-The tracks obtained for each of the spatio-temporal region are  used  to  create  a  corresponding  adjacency  matrix  basedon the road user ids. The distance between two road users is converted into metres from pixel values. If the distance is less than μ= 10m, the corresponding entry is added to  the  adjacency  matrix  based  on  road  width.  The  image representation  of  the  adjacency  matrices  is  sent  as  input to  VGG16  CNN  architecture  pretrained  on  ImageNet dataset.  The  input  image  is  resized  to  224×224  and  a  147 dimension feature vector is extracted from the average poollayer.<br><br>
+The tracks obtained for each of the Spatio-temporal regions are used to create a corresponding adjacency matrix based on the road user ids. The distance between two road users is converted into meters from pixel values. If the distance is less than μ= 10m, the corresponding entry is added to the adjacency matrix based on road width.  The image representation of the adjacency matrices is sent as input to the VGG16  CNN  architecture pre-trained on the ImageNet dataset.  The  input  image  is  resized  to  224×224  and  a  147 dimension feature vector is extracted from the average pool layer.<br><br>
 
 The features can be downloaded [here](https://drive.google.com/drive/folders/156e5u6czBblMhLEFxG-gzbyj8H2Rk6WY?usp=sharing)
 

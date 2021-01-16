@@ -70,11 +70,13 @@ This dataset is provided for academic and research purposes only.
 If you use this dataset, consider citing our paper.
 
 ```
-@INPROCEEDINGS{roy2020defining, 
-author={D. {Roy} and Naveen Kumar {K.} and C. K. {Mohan}}, 
-booktitle={2020 IEEE Intelligent Transportation Systems Conference (ITSC)}, 
-title={Defining Traffic States based on Spatio-Temporal Traffic Graphs}, 
-year={2020}, 
+@inproceedings{roy2020defining,
+  title={Defining Traffic States using Spatio-temporal Traffic Graphs},
+  author={Roy, Debaditya and Kumar, K Naveen and Mohan, C Krishna},
+  booktitle={2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC)},
+  pages={1--6},
+  year={2020},
+  organization={IEEE}
 }
 
 ```

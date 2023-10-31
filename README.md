@@ -63,7 +63,7 @@ This dataset is provided for academic and research purposes only.
 
 <h3> Annotator </h3>
 
-* [K Naveen Kumar](https://naveenkumar1311.github.io/), First-year PhD Research Scholar, Dept. of Computer Science and Engineering, Indian Institute of Technology Hyderabad, India
+* [K Naveen Kumar](https://naveenkumar1311.github.io/), PhD Research Scholar, Dept. of Computer Science and Engineering, Indian Institute of Technology Hyderabad, India
 
 <h2> Citation</h2>
 

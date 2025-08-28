@@ -79,6 +79,16 @@ If you use this dataset, consider citing our paper.
   organization={IEEE}
 }
 
+@article{KUMAR2024110721,
+title = {TSANet: Forecasting traffic congestion patterns from aerial videos using graphs and transformers},
+journal = {Pattern Recognition},
+volume = {155},
+pages = {110721},
+year = {2024},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2024.110721}
+}
+
 ```
 
 <h2> Acknowledgment </h2>
